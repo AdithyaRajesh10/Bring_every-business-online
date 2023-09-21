@@ -1,0 +1,118 @@
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.navbar-nav {
+  padding-left: 150px;
+  font-size: small;
+}
+
+.w-100 {
+  height: 100vh;
+  width: 100%;
+}
+.textcenter {
+  text-align: center;
+}
+
+.pic {
+  height: 248px;
+  width: 295px;
+}
+
+.footer {
+  background-color: rgb(170, 164, 164);
+  height: 45px;
+  width: 100%;
+  margin-bottom: 0%;
+}
+
+.png {
+  width: 193px;
+  margin-left: 550px;
+}
+
+.service-section {
+  background: #689cb4;
+  color: aliceblue;
+  height: 100vh;
+  width: 100%;
+}
+
+.chara {
+  text-align: center;
+  font-size: small;
+  padding-top: 15px;
+  margin-bottom: 0%;
+}
+
+.text h5 {
+  font-size: 45px;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.text p {
+  font-size: 18px;
+  line-height: 25px;
+}
+
+.about-us {
+  height: 100vh;
+  width: 100%;
+}
+
+.about {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.text {
+  flex: 1;
+  padding: 20px;
+  background-color: #fff;
+  max-width: 50%;
+}
+
+.about-img {
+  width: 763px;
+  height: 575px;
+  flex: 1;
+  margin-top: 101px;
+  margin-left: 1%;
+}
+
+.btn {
+  background-color: #ffbe44;
+  margin-right: 20%;
+}
+
+.logo {
+  height: 36px;
+  width: 72px;
+  float: left;
+  margin-left: -18px;
+}
+.contactus {
+  display: flex;
+  width: 80%;
+  margin-top: 5em;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5em;
+}
+
+.left {
+  width: 50%;
+  padding-left: 5em;
+}
+
+.right {
+  width: 50%;
+}
+
+#chat {
+  font-weight: bold;
+  font-size: 25px;
+}
