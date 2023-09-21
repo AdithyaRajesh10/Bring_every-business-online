@@ -76,10 +76,10 @@ body {
 }
 
 .about-img {
-  width: 763px;
-  height: 575px;
+ width: 677px;
+  height: 517px;
   flex: 1;
-  margin-top: 101px;
+  margin-top: 101px; 
   margin-left: 1%;
 }
 
